@@ -1,0 +1,58 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.out
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects / Dynamic libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+main
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+core
+
+# Build directories
+build/
+cmake-build-*/
+dist/
+Debug/
+Release/
+
+# IDE/editor stuff
+.vscode/
+.idea/
+*.code-workspace
+
+# Replit
+.replit
+*.replit
+
+# OS files
+.DS_Store
+Thumbs.db
+EOF
