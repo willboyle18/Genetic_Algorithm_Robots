@@ -4,7 +4,7 @@ A C++ project that uses genetic algorithms to evolve robot behaviors.
 
 ## Overview
 
-This project implements a genetic algorithm in C++ to optimize robotic behaviors. It includes a straightforward genetic algorithm workflow (selection, crossover, mutation, evaluation) and a `Makefile` to compile and run.
+This project implements a genetic algorithm in C++ to optimize robotic behaviors. It includes a genetic algorithm workflow (selection, crossover, mutation, evaluation) and a `Makefile` to compile and run.
 
 ## Getting Started
 
