@@ -17,3 +17,14 @@ This project implements a genetic algorithm in C++ to optimize robotic behaviors
 ```bash
 make          # Build the project
 ./main        # Run the compiled executable
+```
+### Cleaning Up
+```bash
+make clean    # Remove build artifacts
+```
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
